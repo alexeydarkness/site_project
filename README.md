@@ -5,7 +5,6 @@
 ## 🚀 Демо
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-результат-brightgreen)](https://ваш-логин.github.io/рево-кофе/)  https://alexeydarkness.github.io/site_project/
-*Ссылка будет активна после настройки GitHub Pages*
 
 ## 📱 Особенности реализации
 
